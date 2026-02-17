@@ -1,4 +1,4 @@
-module protos
+module github.com/Pistik-notbot/protos
 
 go 1.25.5
 
